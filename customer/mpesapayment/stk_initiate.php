@@ -8,7 +8,7 @@ if(isset($_POST['submit'])){
   $consumerKey = 'nk16Y74eSbTaGQgc9WF8j6FigApqOMWr'; //Fill with your app Consumer Key
   $consumerSecret = '40fD1vRXCq90XFaU'; // Fill with your app Secret
 
-  # define the variales
+  # define the variables
   # provide the following details, this part is found on your test credentials on the developer account
   $BusinessShortCode = '174379';
   $Passkey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919';  
